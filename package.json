@@ -1,0 +1,20 @@
+{
+  "name": "nodetraining",
+  "version": "1.0.0",
+  "description": "Node Training",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "training",
+    "&",
+    "testing"
+  ],
+  "author": "Sumit",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
