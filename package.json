@@ -15,6 +15,7 @@
   "author": "Sumit",
   "license": "ISC",
   "dependencies": {
+    "anothermodulenode": "github:SumitDobriyal/anotherRepoNode",
     "lodash": "^4.17.11"
   }
 }
